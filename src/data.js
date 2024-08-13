@@ -92,7 +92,7 @@ export const cards = [
       img: "../public/img/man3.jpeg",
       pp: "https://images.pexels.com/photos/1036627/pexels-photo-1036627.jpeg?auto=compress&cs=tinysrgb&w=1600",
       cat: "Business Attorney",
-      username: "A.R Reddy",
+      username: "Aryan Kumar",
     },
     {
       id: 7,
@@ -163,7 +163,7 @@ export const cards = [
       desc: "Business legal advisor: Providing businesses with expert legal advice.",
       price: 1200,
       star: 4,
-      username: "A.R Reddy ",
+      username: "Aryan Kumar ",
     },
     {
       id: 7,

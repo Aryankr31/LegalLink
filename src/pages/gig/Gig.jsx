@@ -11,7 +11,7 @@ const Gig = () => {
 
           <div className="user">
             <img src="" alt="" />
-            <span>A.R Reddy</span>
+            <span>Aryan Kumar</span>
             <div className="stars">
               <img src="/img/star.png" alt="" />
               <img src="/img/star.png" alt="" />
@@ -69,7 +69,7 @@ const Gig = () => {
                 alt=""
               />
               <div className="info">
-                <span>A.R Reddy</span>
+                <span>Aryan Kumar</span>
                 <div className="stars">
                   <img src="/img/star.png" alt="" />
                   <img src="/img/star.png" alt="" />
@@ -106,7 +106,7 @@ const Gig = () => {
               </div>
               <hr />
               <p>
-                My name is A.R Reddy, I enjoy helping business navigate the complex
+                My name is Aryan Kumar, I enjoy helping business navigate the complex
                 world of business laws. I have 10 years experience in business consultancy
                 field. I know it's hard being a business owner no matter its scale, I would
                 love to take away the stress of legal complexities from you. Let's hop on a call.

@@ -20,7 +20,7 @@ const Navbar = () => {
 
     var currentUser = {
         id: 1,
-        username: "A.R Reddy",
+        username: "Aryan Kumar",
         isSeller: true
     }
 
