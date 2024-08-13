@@ -32,8 +32,8 @@ function Footer() {
             <h2>Support</h2>
             <span>Help & Support</span>
             <span>Trust & Safety</span>
-            <span>Selling on legalLink</span>
-            <span>Order on legalLink</span>
+            <span>Selling on LegalLink</span>
+            <span>Order on LegalLink</span>
           </div>
           <div className="item">
             <h2>Community</h2>
@@ -51,8 +51,8 @@ function Footer() {
         <hr />
         <div className="bottom">
           <div className="left">
-            <h2>legalLink.</h2>
-            <span>© legalLink Ltd. 2023</span>
+            <h2>LegalLink.</h2>
+            <span>© LegalLink Ltd. 2023</span>
           </div>
           <div className="right">
             <div className="social">

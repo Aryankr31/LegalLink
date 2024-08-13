@@ -6,7 +6,7 @@ const Gig = () => {
     <div className='gig'>
       <div className="container">
         <div className="left">
-          <span className='breadCrumbs'>legalLink {'>'} Business Legal Advisor</span>
+          <span className='breadCrumbs'>LegalLink {'>'} Business Legal Advisor</span>
           <h1>Business formation and structuring counselling</h1>
 
           <div className="user">

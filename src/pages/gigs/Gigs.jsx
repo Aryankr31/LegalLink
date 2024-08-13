@@ -14,7 +14,7 @@ function Gigs() {
   return (
     <div className='gigs'>
       <div className="container">
-        <span className="breadcrumbs"> liegalLink. {'>'}Business Attorney{'>'}</span>  
+        <span className="breadcrumbs"> LegalLink. {'>'}Business Attorney{'>'}</span>  
         <h1>Business Attorney</h1>
         <p>
            Best Attorney's to Guide you through the complex world of business law 
