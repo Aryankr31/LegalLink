@@ -1,4 +1,4 @@
-# LegalLink - Legal Service Provider [LSP] Registration Portal.
+# LegalLink
 A web portal designed for both the clientele and provider side to decentralized the law workforce.
 
 **HOME PAGE**
